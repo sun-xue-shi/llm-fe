@@ -1,5 +1,4 @@
 <template>
-  <nav>test</nav>
   <RouterView />
 </template>
 
