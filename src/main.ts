@@ -2,7 +2,7 @@ import './assets/styles/main.css'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
-
+import '@arco-design/web-vue/es/message/style/css.js'
 import App from './App.vue'
 import router from './router'
 
